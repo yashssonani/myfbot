@@ -1,2 +1,0 @@
-pip3
-python-telegram-bot
